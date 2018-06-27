@@ -1,0 +1,3 @@
+UserName Password Points
+ankita puranik 100
+krunal patel 2000

@@ -1,0 +1,3 @@
+productName productId Price
+phone 1 500
+laptop 2 1000
